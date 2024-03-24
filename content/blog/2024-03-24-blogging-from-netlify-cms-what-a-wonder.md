@@ -1,6 +1,5 @@
 ---
-layout: blog
-title: blogging from netlify cms  - what a wonder!
-date: 2024-03-24T15:13:14.011Z
+title: post with image
+date: 2024-03-24T15:14:02.327Z
 ---
-My first blog using netlify cms.
+![](/images/uploads/sap-labs-bldg1-towards.jpeg)
