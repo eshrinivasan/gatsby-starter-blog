@@ -12,12 +12,12 @@ module.exports = {
     title: `Gatsby Starter Blog`,
     author: {
       name: `NS`,
-      summary: `who lives and works, mostly on social media.`,
+      summary: `who lives and works, mostly on social media and sometimes space out, hence the spacesuit.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://blogs.neelamegam.in/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `TheWorldOfFunny`,
     },
   },
   plugins: [
