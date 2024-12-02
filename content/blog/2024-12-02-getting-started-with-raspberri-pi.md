@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Getting started with Raspberri Pi
+title: Getting started with Raspberry Pi
 date: 2024-12-02T05:57:58.479Z
 ---
 R﻿aspberry Pi is a mini computer (aka SBC) without the peripherals like keyboard, mouse, monitor etc. Older versions of Pi(Pi 2) do not even have Wi-Fi module. A SD card needs to be inserted into the Raspberry Pi and an Operating System( OS )should be loaded on to it. To load the OS onto the SD Card, insert the SD Card into a Windows/Mac machine, use Raspberry Pi Imager and select the OS to load onto it. 
